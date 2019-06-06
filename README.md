@@ -21,3 +21,6 @@ Game can be also modified by changing variables in the file `constants.cpp` in t
 
 ### How to start the game
 To start a new game, type `cd <file path>` and then `make run` in terminal command line. To generate documentation, type `make doc`. To clean binary objects, type `make clean`.
+
+### Screenshot from the game
+![Screenshot from the game](screenshot.png)
